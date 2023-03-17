@@ -1,1 +1,6 @@
+About Page
+
+
 I'm learning Git! Git is fun, I'm git'ing the hang of it.
+
+Need to modify more
